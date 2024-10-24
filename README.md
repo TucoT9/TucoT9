@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @TucoT9
-- 👀 I’m interested in hacking,developing
-- 🌱 I’m currently learning c#
-- 📫 How to reach me: layout_ on dc
+# 👋 Hi, I'm TucoT9!
 
-<!---
-TucoT9/TucoT9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer from Germany with a keen interest in programming and hacking. Currently, I'm diving into C# and working on various projects. My programming expertise spans multiple languages, including Python, HTML, CSS, Java, and Lua.
+
+
+# 🔧 Projects
+
+T9 Multi-Tool: A versatile tool designed for various applications.
+TucoT9 Config Files: Custom configuration files for my GitHub profile.
+
+
+# 🌐 Connect with me
+
+Discord: kinguin.net on dc
+Website: https://tucot9.com/
+YouTube: https://www.youtube.com/@TucoT9
+I’m always open to collaboration, so feel free to reach out!
