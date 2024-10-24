@@ -12,6 +12,9 @@ TucoT9 Config Files: Custom configuration files for my GitHub profile.
 # 🌐 Connect with me
 
 Discord: kinguin.net on dc
+
 Website: https://tucot9.com/
+
 YouTube: https://www.youtube.com/@TucoT9
+
 I’m always open to collaboration, so feel free to reach out!
